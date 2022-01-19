@@ -1,2 +1,2 @@
-# goit-markup-hw-08
-https://anionb.github.io/goit-markup-hw-08/
+# goit-js-hw-06
+https://anionb.github.io/goit-js-hw-06/
